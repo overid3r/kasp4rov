@@ -3,4 +3,4 @@
 
 Undefined command: "to_give_up".  Try "help".
 
-yourlife> while [ -n "$(cat dreams.txt 2>/dev/null)" ]; do ./tryagain; done
+yourlife> [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&color=red&width=435&lines=while%20[%20-n%20$(cat%20dreams.txt%202%3E/dev/null)%20];%20do%20./tryagain;%20done)](https://git.io/typing-svg)
