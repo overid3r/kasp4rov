@@ -15,8 +15,6 @@
 000000a0  00 3a 00 00 00 0a 00 00  e0 14 00 00 00 10 00 00  |.:..............|<br>
 000000b0  00 00 40 00 00 00 00 00  00 10 00 00 00 02 00 00  |..@.............|<br>**
 
-this profile is confidential
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasp4rov&show_icons=true&theme=tokyonight)
 
 just a lonely guy
