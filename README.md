@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://linux-console.net/common-images/play-snake-game-in-linux-terminal/Snake-Gameplay-in-Linux-Terminal.gif" width="500">
+<img src="https://linux-console.net/common-images/play-snake-game-in-linux-terminal/Snake-Gameplay-in-Linux-Terminal.gif" width="800">
 
 Undefined command: "to_give_up".  Try "help".
  
