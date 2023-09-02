@@ -3,7 +3,7 @@
 
  00:10:04 up  3:42,  1 user,  load average: 1,50, 2,04, 1,93
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=600&color=red&width=435&lines=kasparov@h3ll:~$%20xxd%20-p%20MyLife)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=700&color=red&width=435&lines=kasparov@h3ll:~$%20xxd%20-g%20-p%20Po3m.exe)](https://git.io/typing-svg)
 
 ```hex
 00000000: 4d5a90000300000004000000ffff0000  MZ..............
