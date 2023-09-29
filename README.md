@@ -16,3 +16,4 @@
 00000070: 6d6f64652e0d0d0a2400000000000000  but b34ut1ful.$
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasp4rov&layout=compact)](https://github.com/kasp4rov/github-readme-stats)
