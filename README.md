@@ -17,6 +17,6 @@
 ```
 <div align="center">
   <a href="https://github.com/kasp4rov/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasp4rov&layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overid3r&layout=compact" alt="Top Langs">
   </a>
 </div>
